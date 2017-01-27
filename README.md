@@ -1,2 +1,4 @@
-# web-development-guide
-My progression through P1xt's Web Development Guide
+# Web-development-guide
+My progression through P1xt's Web Development Guide.
+
+
