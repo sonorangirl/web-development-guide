@@ -1,6 +1,39 @@
 # My Progress
 
+## Learn HTML & CSS - Shay Howe
+### Ch.1
+**What I've Learned**:
+* Just review of basic html and css structure
+
+**Link(s) to work**:
+
 ## YDKJS - Scope and Closures
+### Ch 4
+**What I've Learned**:
+*
+
+**Link(s) to work**:
+
+### Ch 3
+**What I've Learned**:
+* Function scope encourages the idea of hiding variables/code from the outer scope
+* *"Principle of Least Privilege"* - only expose what is minimally necessary, hide everything else
+* This also helps with collision avoidance (overwriting an identically named variable) and with global namespace issues
+* IFFE's and inline function expressions also help to keep code hidden from outer scope
+* Naming anonymous functions and IFFE's can help readabiltity
+* Block Scope previously was only found in try/catch blocks in JS
+* With the new **let** and **const** keywords, the variables declared by them are now block scoped
+* These shouldn't replace the **var** keyword, but should be used alongside it, choosing function scope or block scope when appropriate
+
+**Link(s) to work**:
+
+### Ch 2
+**What I've Learned**:
+* Lexical scope stops at the first match, so 'shadowing' is when you use the same identifier name at multiple layers of nested scope, the inner identifier shadows the outer one.
+* Don't use the cheat methods for lexical scope, eval() and with()
+
+**Link(s) to work**:
+
 ### Ch 1
 **What I've Learned**:
 * That javascript is a compiled language, just that it doesn't compile ahead of time,
