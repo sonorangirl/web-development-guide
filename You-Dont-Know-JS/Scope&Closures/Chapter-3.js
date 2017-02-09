@@ -18,6 +18,9 @@ if (true) {
 console.log(a); //2 - var is not block scoped, so it can be accessed
 console.log(b); //ReferenceError - let is block scoped, so it can't be referenced outside the if block
 
+// this holds true for the const as well,
+// it will be block scoped, therfore not able to be referencd outside the block scope it's in
+
 //* --------------- Notes --------------- *//
 //Function Scope vs Block Scope
 
