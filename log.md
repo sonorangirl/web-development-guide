@@ -18,7 +18,10 @@
 ## YDKJS - Scope and Closures
 ### Ch 4
 **What I've Learned**:
-*
+* Hoisting occurs because the JS compiler sees statements in seperate parts, the variable declaration, and the assignment
+* The declaration gets hoisted to determine scope for the JS engine, then the engine does assignment later
+* Function declarations are hoisted before variable declarations
+* Function declarations are hoisted, but function expressions are not
 
 **Link(s) to work**:
 
