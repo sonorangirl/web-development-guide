@@ -1,6 +1,14 @@
 # My Progress
 
 ## Learn HTML & CSS - Shay Howe
+### Ch.2
+**What I've Learned**:
+* There's a semantic difference between <strong></strong> and <b></b> as well as between <em></em> and <i></i>
+* Prompted me to look up more of the semantic html elements that I haven't really used yet.
+
+**Link(s) to work**:
+* [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
+
 ### Ch.1
 **What I've Learned**:
 * Just review of basic html and css structure
