@@ -26,7 +26,11 @@
 ## YDKJS - Scope and Closures
 ### Ch 5 - Scope Closures
 **What I've Learned**:
-*
+* Technically all inner functions have closure over the outer scope they have access to
+* To observe closure, a function must be transported outside of its lexical scope, while retaining references to it's original lexical scope
+* Modules must have an outer wrapping function that gets invoked, which creates a module instance, and they also must return 1 or more inner functions that have closure over the inner private scope
+* ES6 modules must be defined in seperate files, 1 module per file
+* The contents of each file are trated as if they are enclosed in scope closure
 
 **Link(s) to work**:
 
