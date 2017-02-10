@@ -1,6 +1,14 @@
 # My Progress
 
-## Learn HTML & CSS - Shay Howe
+## Learn HTML & CSS - Shay Howe Course
+### Ch.3
+**What I've Learned**:
+* Spaces in CSS selectors create more or less specificity when used or ommitted
+* It's best practice not to join type selectors with class selectors, instead specifying all elements with the class specified instead of just the type with the class selected so .mustard not p.mustard
+* Specificity weights are what determines precedence in the cascade
+
+**Link(s) to work**:
+
 ### Ch.2
 **What I've Learned**:
 * There's a semantic difference between <strong></strong> and <b></b> as well as between <em></em> and <i></i>
@@ -16,7 +24,13 @@
 **Link(s) to work**:
 
 ## YDKJS - Scope and Closures
-### Ch 4
+### Ch 5 - Scope Closures
+**What I've Learned**:
+*
+
+**Link(s) to work**:
+
+### Ch 4 - Hoisting
 **What I've Learned**:
 * Hoisting occurs because the JS compiler sees statements in seperate parts, the variable declaration, and the assignment
 * The declaration gets hoisted to determine scope for the JS engine, then the engine does assignment later
@@ -25,7 +39,7 @@
 
 **Link(s) to work**:
 
-### Ch 3
+### Ch 3 - Function vs Block Scope
 **What I've Learned**:
 * Function scope encourages the idea of hiding variables/code from the outer scope
 * *"Principle of Least Privilege"* - only expose what is minimally necessary, hide everything else
@@ -38,14 +52,14 @@
 
 **Link(s) to work**:
 
-### Ch 2
+### Ch 2 - Lexical Scope
 **What I've Learned**:
 * Lexical scope stops at the first match, so 'shadowing' is when you use the same identifier name at multiple layers of nested scope, the inner identifier shadows the outer one.
 * Don't use the cheat methods for lexical scope, eval() and with()
 
 **Link(s) to work**:
 
-### Ch 1
+### Ch 1 - What is Scope
 **What I've Learned**:
 * That javascript is a compiled language, just that it doesn't compile ahead of time,
 instead it compiles right before the code is executed.s
