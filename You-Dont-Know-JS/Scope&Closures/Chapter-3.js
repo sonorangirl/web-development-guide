@@ -49,3 +49,9 @@ console.log(b); //ReferenceError - let is block scoped, so it can't be reference
 
 //var should still be used along with the new keywords, and each should be chosen whenever appropriate for the situation
 
+//you can create block scope with anything that has uses a set of curly braces, even just using curly braces themselves
+{
+	let e = 42; // because of the new let keyword, this variable is scoped to this block
+}
+console.log(e); //ReferenceError
+

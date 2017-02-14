@@ -26,4 +26,18 @@ var foo = function bar() {
 };
 
 //Functions are hoisted first, then variables second
+//function expressions cannot be called before they are 'declared' during runtime, but because of hoisting,
+//function declarations can.
+
+//In C header files are used to declare code you will be using later in the program,
+//JS does it automatically through hoisting
+
+//Because let and const aren't hoisted, you need to declare them at the top of each block you are using them in
+if (true) {
+	console.log(f); //ReferenceError, f hasn't been declared yet
+	console.log(g); //undefined, g was hoisted because of the var keyword, but hasn't recieved an assignment yet
+	let f = 9;
+	var g = 7;
+}
+//this is known as the temporal dead zone
 
