@@ -1,7 +1,24 @@
 # My Progress
 
 ## Learn HTML & CSS - Shay Howe Course
-### Ch.3
+### lesson 5
+**What I've Learned**:
+* Practice with floats and clearfixes
+* Using html comments to get rid of spaces between in-line elements
+* I'm very glad that I can use flexbox instead of having to figure floats and clear fixes out all the time, it's so much easier
+
+**Link(s) to work**:
+* [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
+
+### lesson 4
+**What I've Learned**:
+* Review of the box model
+* There's a box-sizing option called padding-box, that I'll likely never use...
+
+**Link(s) to work**:
+* [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
+
+### lesson 3
 **What I've Learned**:
 * Spaces in CSS selectors create more or less specificity when used or ommitted
 * It's best practice not to join type selectors with class selectors, instead specifying all elements with the class specified instead of just the type with the class selected so .mustard not p.mustard
@@ -9,7 +26,7 @@
 
 **Link(s) to work**:
 
-### Ch.2
+### lesson 2
 **What I've Learned**:
 * There's a semantic difference between <strong></strong> and <b></b> as well as between <em></em> and <i></i>
 * Prompted me to look up more of the semantic html elements that I haven't really used yet.
@@ -17,11 +34,12 @@
 **Link(s) to work**:
 * [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
 
-### Ch.1
+### lesson 1
 **What I've Learned**:
 * Just review of basic html and css structure
 
 **Link(s) to work**:
+
 
 ## YDKJS - Scope and Closures
 ### Ch 5 - Scope Closures
@@ -33,6 +51,7 @@
 * The contents of each file are trated as if they are enclosed in scope closure
 
 **Link(s) to work**:
+* [exercise 2 from Kyle Simspson lecture on YDKJS](https://github.com/sonorangirl/web-development-guide/tree/master/You-Dont-Know-JS/Scope%26Closures/exercise-2)
 
 ### Ch 4 - Hoisting
 **What I've Learned**:
@@ -42,6 +61,7 @@
 * Function declarations are hoisted, but function expressions are not
 
 **Link(s) to work**:
+* [exercise 1 from Kyle Simspson lecture on YDKJS](https://github.com/sonorangirl/web-development-guide/tree/master/You-Dont-Know-JS/Scope%26Closures/exercise-1)
 
 ### Ch 3 - Function vs Block Scope
 **What I've Learned**:
