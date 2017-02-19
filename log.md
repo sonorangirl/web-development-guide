@@ -1,5 +1,15 @@
 # My Progress
 
+## YDKJS - this & Object Prototypes
+### Ch 1 - this or that
+**What I've Learned**:
+* this - doesn't refer to it's containing functions self
+* this - doesn't refer to it's containg functions lexical scope
+* this - doesn't have anything to do with where it was declared
+* this - has everything to do with where it was called
+
+**Link(s) to work**:
+
 ## Learn HTML & CSS - Shay Howe Course
 ### lesson 5
 **What I've Learned**:
