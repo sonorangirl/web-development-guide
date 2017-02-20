@@ -1,6 +1,17 @@
 # My Progress
 
 ## YDKJS - this & Object Prototypes
+### Ch 2 - this All Makes Sense Now
+**What I've Learned**:
+* What 'this' references is determined by finding the call-site and then asking
+	1. Was it called with the 'new' keyword? -> It refers to the newly created object
+	2. Was it called with explicit binding? -> It refers to the bound object
+	3. Was there implicit binding? -> It refers to the owning or containing object
+	4. If none of these apply it has default binding to the global object, or it's 'undefined' if in 'strict mode'
+* Arrow functions are an exception to this, 'this' instead refers to the functions lexical scope
+
+**Link(s) to work**:
+
 ### Ch 1 - this or that
 **What I've Learned**:
 * this - doesn't refer to it's containing functions self
