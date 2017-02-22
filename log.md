@@ -22,6 +22,15 @@
 **Link(s) to work**:
 
 ## Learn HTML & CSS - Shay Howe Course
+### lesson 6
+**What I've Learned**:
+* a typeface is what we see, fonts are the file that contains the typeface
+* font-variant allows text to be set in small-caps
+* Reviewing web typography
+
+**Link(s) to work**:
+* [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
+
 ### lesson 5
 **What I've Learned**:
 * Practice with floats and clearfixes
