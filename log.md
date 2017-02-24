@@ -1,9 +1,31 @@
 # My Progress
+## CS50
+
+### Week 1
+**What I've Learned**:
+* C is very frustrating :confused:
+* Especially when I can solve the problem easily in javascript, but instead have to figure out how to do it in C
+* I've come to appreciate all the built in functionality that comes with higher level languages
+
+**Link(s) to work**:
+*
+
 
 ## YDKJS - this & Object Prototypes
+### Ch 4 - Mixing Up Class Objects
+**What I've Learned**:
+* 
+
+**Link(s) to work**:
+
 ### Ch 3 - Objects
 **What I've Learned**:
-*
+* Not everything in JS is an object
+* objects are 1 of the 6 primitive types: string, number, boolean, null, undefined, object
+* There are several built-in Objects: String, Number, Boolean, Function, Array, Object, Date, RegExp, Error
+* Object properties also have descriptors: value, writable, enumerable, configurable
+* Changing these allows more control for preventing changes to an object
+* the new ES6 **for..of** syntax allows iteration directly over array and object values
 
 **Link(s) to work**:
 
