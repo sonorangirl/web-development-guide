@@ -22,11 +22,24 @@
 **Link(s) to work**:
 
 ## Learn HTML & CSS - Shay Howe Course
+### lesson 7
+**What I've Learned**:
+* Review of gradients and background images
+* **background-clip**: specifies the surface area a background image will cover
+* **background-origin**: specifies where the background-position should originate
+* Can use **border-box**, **padding-box**, and **content-box** as values for these properties
+
+**Link(s) to work**:
+* [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
+
 ### lesson 6
 **What I've Learned**:
 * a typeface is what we see, fonts are the file that contains the typeface
 * font-variant allows text to be set in small-caps
-* Reviewing web typography
+* `<cite>` Used to reference a creative work, author, or resource
+* `<q>` Used for short, inline quotations
+* `<blockquote>` Used for longer external quotations
+* cite can be used as an attribute in quotes
 
 **Link(s) to work**:
 * [styles-conference project](https://github.com/sonorangirl/web-development-guide/tree/master/LearnHTML%26CSS/styles-conference)
@@ -58,7 +71,7 @@
 
 ### lesson 2
 **What I've Learned**:
-* There's a semantic difference between <strong></strong> and <b></b> as well as between <em></em> and <i></i>
+* There's a semantic difference between `<strong></strong>` and `<b></b>` as well as between `<em></em>` and `<i></i>`
 * Prompted me to look up more of the semantic html elements that I haven't really used yet.
 
 **Link(s) to work**:
