@@ -1,6 +1,12 @@
 # My Progress
 
 ## YDKJS - this & Object Prototypes
+### Ch 3 - Objects
+**What I've Learned**:
+*
+
+**Link(s) to work**:
+
 ### Ch 2 - this All Makes Sense Now
 **What I've Learned**:
 * What 'this' references is determined by finding the call-site and then asking
@@ -12,7 +18,7 @@
 
 **Link(s) to work**:
 
-### Ch 1 - this or that
+### Ch 1 - this Or That
 **What I've Learned**:
 * this - doesn't refer to it's containing functions self
 * this - doesn't refer to it's containg functions lexical scope
@@ -91,7 +97,7 @@
 * To observe closure, a function must be transported outside of its lexical scope, while retaining references to it's original lexical scope
 * Modules must have an outer wrapping function that gets invoked, which creates a module instance, and they also must return 1 or more inner functions that have closure over the inner private scope
 * ES6 modules must be defined in seperate files, 1 module per file
-* The contents of each file are trated as if they are enclosed in scope closure
+* The contents of each file are treated as if they are enclosed in scope closure
 
 **Link(s) to work**:
 * [exercise 2 from Kyle Simspson lecture on YDKJS](https://github.com/sonorangirl/web-development-guide/tree/master/You-Dont-Know-JS/Scope%26Closures/exercise-2)
@@ -129,7 +135,7 @@
 ### Ch 1 - What is Scope
 **What I've Learned**:
 * That javascript is a compiled language, just that it doesn't compile ahead of time,
-instead it compiles right before the code is executed.s
+instead it compiles right before the code is executed
 * Left hand side lookup - LHS - finding the variable container itself
 * Right hand side loopup - RHS - finding the value of a variable and retreiving it
 
